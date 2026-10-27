@@ -54,5 +54,29 @@
   "penulis": "TurtleMe",
   "tahunTerbit": 2018,
   "status": "ingin dibeli"
-}
+  },
+  {
+  "id": "8",
+  "judul": "Berani Tidak Disukai",
+  "kategori": "Pengembangan Diri",
+  "penulis": "Ichiro Kishimi dan Fumitake Koga",
+  "tahunTerbit": 2013,
+  "status": "ingin dibeli"
+  },
+  {
+  "id": "9",
+  "judul": "The Pragmatic Programmer",
+  "kategori": "Teknologi",
+  "penulis": "David Thomas dan Andrew Hunt",
+  "tahunTerbit": 1999,
+  "status": "ingin dibeli"
+  },
+  {
+    "id": "10",
+    "judul": "Rich Dad Poor Dad",
+    "kategori": "Keuangan",
+    "penulis": "Robert T. Kiyosaki",
+    "tahunTerbit": 1997,
+    "status": "ingin dibeli"
+  }
 ]
