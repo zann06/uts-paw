@@ -1,10 +1,58 @@
 [
   {
     "id": "1",
-    "judul": "Contoh item pertama",
-    "kategori": "Contoh",
-    "fieldTema1": "ganti sesuai field tema",
-    "fieldTema2": 0,
-    "fieldTema3": "ganti sesuai field tema"
-  }
+    "judul": "Atomic Habits",
+    "kategori": "Pengembangan Diri",
+    "penulis": "James Clear",
+    "tahunTerbit": 2018,
+    "status": "dimiliki"
+  },
+  {
+    "id": "2",
+    "judul": "Filosofi Teras",
+    "kategori": "Filsafat",
+    "penulis": "Henry Manampiring",
+    "tahunTerbit": 2018,
+    "status": "sudah dibaca"
+  },
+  {
+    "id": "3",
+    "judul": "The Psychology of Money",
+    "kategori": "Keuangan",
+    "penulis": "Morgan Housel",
+    "tahunTerbit": 2020,
+    "status": "sudah dibaca"
+  },
+  {
+    "id": "4",
+    "judul": "Sapiens",
+    "kategori": "Sejarah",
+    "penulis": "Yuval Noah Harari",
+    "tahunTerbit": 2011,
+    "status": "dimiliki"
+  },
+  {
+    "id": "5",
+    "judul": "Deep Work",
+    "kategori": "Produktivitas",
+    "penulis": "Cal Newport",
+    "tahunTerbit": 2016,
+    "status": "sedang dibaca"
+  },
+  {
+    "id": "6",
+    "judul": "Clean Code",
+    "kategori": "Teknologi",
+    "penulis": "Robert C. Martin",
+    "tahunTerbit": 2008,
+    "status": "ingin dibeli"
+  },
+  {
+  "id": "7",
+  "judul": "The Beginning After the End",
+  "kategori": "Fantasi",
+  "penulis": "TurtleMe",
+  "tahunTerbit": 2018,
+  "status": "ingin dibeli"
+}
 ]
