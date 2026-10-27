@@ -65,11 +65,11 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 ```markdown
 # Nama Aplikasi
 
-Nama: ...
-NIM: ...
-Kelas: ...
-Tema: ...
-Deployment: https://USERNAME.github.io/uts-paw/
+Nama: Farid Rizky Fauzan
+NIM: 124140210
+Kelas: RA
+Tema: Rak Buku Pribadi
+Deployment: https://zann06.github.io/uts-paw/
 
 ![Tangkapan layar beranda](docs/beranda.png)
 
