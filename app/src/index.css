@@ -1,13 +1,12 @@
 :root {
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.5;
-  color: #1f2937;
-  background: #eef2f7;
+  color: #1f2328;
+  background: #f6f7f9;
 }
 
 body {
   margin: 0;
-  background: #9bdacd;
 }
 
 main {
@@ -29,23 +28,24 @@ main {
   color: #15803d;
 }
 
+.kepala {
+  background: #1e293b;
+  color: white
+}  
 
 .kartu {
   padding: 15px;
   margin-bottom: 15px;
 }
 
-.menu {
+.menu a {
   padding: 15px;
+  color: white;
 }
 
 .isi {
   margin: 10px;
   padding: 10px;
-}
-
-.formulir {
-  padding: 15px;
 }
 
 .kaki {
@@ -54,7 +54,6 @@ main {
   background: #1e293b;
   color: white;
 }
-
 
 .kartu:hover {
   background: #e2e8f0;
