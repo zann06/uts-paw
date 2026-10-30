@@ -1,16 +1,69 @@
 :root {
   font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   line-height: 1.5;
-  color: #1f2328;
-  background: #f6f7f9;
+  color: #1f2937;
+  background: #eef2f7;
 }
 
 body {
   margin: 0;
+  background: #9bdacd;
 }
 
 main {
   max-width: 960px;
   margin: 0 auto;
   padding: 2rem 1rem;
+}
+
+
+#penulis {
+  color: #1e3a5f;
+}
+
+#judul {
+  color: #2563eb;
+}
+
+#kategori {
+  color: #15803d;
+}
+
+
+.kartu {
+  padding: 15px;
+  margin-bottom: 15px;
+}
+
+.menu {
+  padding: 15px;
+}
+
+.isi {
+  margin: 10px;
+  padding: 10px;
+}
+
+.formulir {
+  padding: 15px;
+}
+
+.kaki {
+  text-align: center;
+  padding: 20px;
+  background: #1e293b;
+  color: white;
+}
+
+
+.kartu:hover {
+  background: #e2e8f0;
+}
+
+button:active {
+  background: #2563eb;
+}
+
+.menu a:hover {
+  color: #cda859;
 }

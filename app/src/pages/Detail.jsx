@@ -36,8 +36,8 @@ export default function Detail() {
         <dd>{item.tahunTerbit}</dd>
         <dt>Status</dt>
         <dd>{item.status}</dd>
-     </dl>
-     <div className="aksi">
+      </dl>
+      <div className="aksi">
         <button type="button" onClick={konfirmasiHapus}>
           Hapus
         </button>
